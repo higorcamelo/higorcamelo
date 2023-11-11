@@ -1,3 +1,5 @@
+<img src="https://github.com/higorcamelo/higorcamelo/blob/main/Background_1.gif">
+
 # 💫 Sobre Mim:
 <br>
 - 🎓 Estudante de Engenharia de Software na UFC.<br>
