@@ -3,7 +3,6 @@
 # 💫 Sobre Mim:
 - 🎓 **Bacharel em Engenharia de Software pela UFC**.
 - 💼 **Atualmente Analista de Dados na Mokai Comics**: Especializado em otimização da experiência do usuário e análise de dados.
-- 💻 **Experiência como desenvolvedor web**: Foco em Vue.js e Vuetify durante meu estágio no Núcleo de Práticas em Informática.
 - 🤖 **Apaixonado por programação**: Com interesse em análise de dados, aprendizado de máquina e automação.
 - 🌐 **Meu GitHub** está repleto de projetos de análise de dados, desenvolvimento de bots e sistemas de recomendação.
 
@@ -11,7 +10,6 @@
 - 🐍 **Python**: Minha linguagem de programação preferida para análise de dados e inteligência artificial.
 - 📊 **Análise e Ciência de Dados**: Comprometido em extrair insights valiosos e fundamentar decisões.
 - 🤖 **Desenvolvimento de Bots**: Criação de soluções automatizadas para diversas necessidades.
-- 🌐 **Desenvolvimento Web**: Foco em interfaces interativas com Vue.js.
 - 🛠️ **Ferramentas**: AWS, Power BI, Scikit-learn, Excel, PostgreSQL, Git.
 
 ## 🌐 Redes Sociais:
